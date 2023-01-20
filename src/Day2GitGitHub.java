@@ -5,8 +5,7 @@ public class Day2GitGitHub {
                 git remote add orgin adres
                 git push -u orgin master
     Not: Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci komitler için sadece git push kullaniriz
+    not : Github öğrendim
      */
-    public static void main(String[] args) {
-        System.out.println("Github ı da öğrendim");
-    }
+   
 }
