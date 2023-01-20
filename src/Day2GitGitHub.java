@@ -6,6 +6,7 @@ public class Day2GitGitHub {
                 git push -u orgin master
     Not: Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci komitler için sadece git push kullaniriz
     not : Github öğrendim
+    not : Github cok eglenceli
      */
    
 }
